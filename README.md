@@ -21,8 +21,8 @@ npm install
 Proje kök dizinine bir `.env` dosyası ekleyin ve aşağıdaki gibi doldurun:
 
 ```
-EMAIL=emre.ozer@siriusaitech.com
-PASSWORD=Ee123456
+EMAIL=your-mail@gmail.com
+PASSWORD=your-password
 ```
 
 3. **.gitignore dosyasını oluşturun:**
